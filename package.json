@@ -1,6 +1,7 @@
 {
   "name": "react-express",
-  "version": "1.0.0",
+  "version": "0.1.0",
+  "description": "A starter project for building react and express apps",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
