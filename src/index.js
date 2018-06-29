@@ -30,7 +30,7 @@ app.use(
   })
 );
 
-app.get('/api/hello', (req, res) => {
+app.get('/hello', (req, res) => {
   res.send({ express: 'Hello From Express' });
 });
 
